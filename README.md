@@ -1,16 +1,17 @@
-### Hi there 👋
-
-<!--
-**AlexR32/AlexR32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### BRM5 NPC Autofarm
+```lua
+getgenv().AutofarmConfig = {
+    Keybind = "F6",
+    UseSecondaryWeapon = false, -- (helpful for makarov drum mag)
+    EnableOptimization = false -- (will freeze your game around 5 secs)
+}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AlexR32/Roblox/main/BRM5/Autofarm.lua"))()
+```
+### BRM5 Multihack
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AlexR32/Roblox/main/BRM5/SilentAim.lua"))()
+```
+### RAGDOLL UNIVERSE Multihack
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AlexR32/Roblox/main/Ragdoll%20Mayhem/MultiHack.lua"))()
+```
