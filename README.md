@@ -7,11 +7,7 @@ getgenv().AutofarmConfig = {
 }
 loadstring(game:HttpGet("https://raw.githubusercontent.com/AlexR32/Roblox/main/BRM5/Autofarm.lua"))()
 ```
-### BRM5 Multihack
+### Script Hub
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/AlexR32/Roblox/main/BRM5/SilentAim.lua"))()
-```
-### RAGDOLL UNIVERSE Multihack
-```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/AlexR32/Roblox/main/Ragdoll%20Mayhem/MultiHack.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AlexR32/Roblox/main/ParvusHub.lua"))()
 ```
